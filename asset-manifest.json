@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/biopik/static/css/main.4c719808.chunk.css",
+    "main.js": "/biopik/static/js/main.d6badde9.chunk.js",
+    "main.js.map": "/biopik/static/js/main.d6badde9.chunk.js.map",
+    "runtime~main.js": "/biopik/static/js/runtime~main.f99d0b8f.js",
+    "runtime~main.js.map": "/biopik/static/js/runtime~main.f99d0b8f.js.map",
+    "static/js/2.ae026ab9.chunk.js": "/biopik/static/js/2.ae026ab9.chunk.js",
+    "static/js/2.ae026ab9.chunk.js.map": "/biopik/static/js/2.ae026ab9.chunk.js.map",
+    "static/js/3.940f5f6f.chunk.js": "/biopik/static/js/3.940f5f6f.chunk.js",
+    "static/js/3.940f5f6f.chunk.js.map": "/biopik/static/js/3.940f5f6f.chunk.js.map",
+    "index.html": "/biopik/index.html",
+    "precache-manifest.9b15eab53ea68fb4ead37e68297f721d.js": "/biopik/precache-manifest.9b15eab53ea68fb4ead37e68297f721d.js",
+    "service-worker.js": "/biopik/service-worker.js",
+    "static/css/main.4c719808.chunk.css.map": "/biopik/static/css/main.4c719808.chunk.css.map"
+  }
+}
