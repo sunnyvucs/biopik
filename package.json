@@ -2,7 +2,7 @@
   "name": "biopik",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sunnyvucs.github.io/BioPik"
+  "homepage": "https://sunnyvucs.github.io/biopik"
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
